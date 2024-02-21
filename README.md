@@ -11,6 +11,8 @@ Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this do
 
 ## Solution Structure
 
+[UseCase]
+
 - [Requirements ](1.UseCase/2.Requirements.md)
 - [Business Goals and Drivers ](1.UseCase/1.Goals.md)
 - [Considerations](1.UseCase/3.ConsiderationsAndDataCritically.md)
@@ -18,7 +20,7 @@ Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this do
 
 [Solution Background]
 
-- [Architecture Principles](2.SolutionBackground/ArchitecturePrinciples.md)
+- [Context](2.SolutionBackground/ArchitecturePrinciples.md)
 - [Overall Architecture Style Analysis](2.SolutionBackground/ArchitecturePatterns.md)
 - [Conceptual System Design](2.SolutionBackground/Conceptual.md)
 - [Data Store Solution](2.SolutionBackground/DataStore.md)
