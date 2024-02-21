@@ -1,24 +1,15 @@
-# Architectural Kata Autumn 2021 - The Archangels
+# Architectural Kata 2024 - Monitor Me
 
-<img src="assets/images/gold-medal.png" width="150" height="150"/> **1st Place Winners of the O'Reilly Architecture Kata Fall/Autumn 2021**
-
-> This documentation repository is hosted on GitHub here: [https://github.com/tekiegirl/Archangels](https://github.com/tekiegirl/Archangels)
-
-Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. The aim of this documentation repository is to communicate our design for the problem described, for a stakeholder and development team audience.
-
-<img src="assets/images/TheArchangels.png" alt="TheArchangels" style="zoom:50%;" />
+Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this documentation repository is to communicate our design for the problem described.
 
 ## Members
-- Jacqui Read [[LinkedIn](https://www.linkedin.com/in/jacquelineread/)] ([see my previous 3rd place kata entry](https://github.com/tekiegirl/TheMadKatas))
-- Luke Gee [[LinkedIn](https://www.linkedin.com/in/luke-gee-nbyuk/)]
-- Shenal Silva [[LinkedIn](https://www.linkedin.com/in/shenalsilva/)]
-- Vikram Pawar [[LinkedIn](https://www.linkedin.com/in/vikrammpawar/)]
+- Raghul R 
+- Barani Kumar D 
+- Balaji SR 
+- Vigneshwar 
+- Amith BS  
 
 ## Solution Structure
-
-[Clarifications](Clarifications.md)
-
-[Glossary](Glossary.md)
 
 [Problem Background](1.ProblemBackground/README.md)
 
