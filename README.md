@@ -11,14 +11,12 @@ Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this do
 
 ## Solution Structure
 
+- [Requirements ](1.UseCase/2.Requirements.md)
 - [Business Goals and Drivers ](1.UseCase/1.Goals.md)
-- [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
-- [Architecture Analysis](1.ProblemBackground/ArchitectureAnalysis.md)
-- [Actors, Actions & Significant Scenarios](1.ProblemBackground/ActorsActionsAndSignificantScenarios.md)
-- [Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
-- [RAID Log](1.ProblemBackground/RAID.md)
+- [Considerations](1.UseCase/3.ConsiderationsAndDataCritically.md)
+- [Actors, Actions](1.UseCase/4.ActorsAndActions.md)
 
-[Solution Background](2.SolutionBackground/README.md)
+[Solution Background]
 
 - [Architecture Principles](2.SolutionBackground/ArchitecturePrinciples.md)
 - [Overall Architecture Style Analysis](2.SolutionBackground/ArchitecturePatterns.md)
