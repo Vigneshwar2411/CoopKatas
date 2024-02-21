@@ -1,6 +1,6 @@
 # Architectural Kata 2024 - Monitor Me
 
-Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this documentation repository is to communicate our design for the problem described.
+Welcome to our entry to the O'Reilly 2024 Architectural Katas. The aim of this documentation repository is to communicate our design and approach for the problem described.
 
 ## Members
 - Raghul R 
