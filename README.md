@@ -11,14 +11,14 @@ Welcome to our entry to the O'Reilly 2024 Architectural Katas. The aim of this d
 
 ## Solution Structure
 
-[UseCase]
+**UseCase**
 
 - [Requirements ](1.UseCase/2.Requirements.md)
 - [Business Goals and Drivers ](1.UseCase/1.Goals.md)
 - [Considerations](1.UseCase/3.ConsiderationsAndDataCritically.md)
 - [Actors, Actions](1.UseCase/4.ActorsAndActions.md)
 
-[Solution Background]
+**Solution Background**
 
 - [Context](2.Solution/1.FirstIteration/Diagrams/Context/Context.md)
 - [Container](2.Solution/1.FirstIteration/Diagrams/Context/Container.md)
