@@ -23,7 +23,7 @@ Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this do
 - [Context](2.Solution/1.FirstIteration/Diagrams/Context/Context.md)
 - [Container](2.Solution/1.FirstIteration/Diagrams/Context/Container.md)
 - [Data Entities for Refresh Interval](2.Solution/1.FirstIteration/Diagrams/Context/DeviceRefreshInterval.md)
-- [Data Entities for Refresh Interval](2.Solution/1.FirstIteration/Diagrams/Context/Threshold.md)
+- [Data Entities for Threshold](2.Solution/1.FirstIteration/Diagrams/Context/Threshold.md)
 - [Data Schema](2.Solution/1.FirstIteration/Models/1.DBSchema.md)
 
 
