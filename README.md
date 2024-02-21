@@ -11,7 +11,7 @@ Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this do
 
 ## Solution Structure
 
-- [Business Goals and Drivers ](1.ProblemBackground/Goals.md)
+- [Business Goals and Drivers ](1.UseCase/1.Goals.md)
 - [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
 - [Architecture Analysis](1.ProblemBackground/ArchitectureAnalysis.md)
 - [Actors, Actions & Significant Scenarios](1.ProblemBackground/ActorsActionsAndSignificantScenarios.md)
