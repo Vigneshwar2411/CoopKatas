@@ -4,9 +4,9 @@ Welcome to our entry to the O'Reilly 2024 Architectural Kata. The aim of this do
 
 ## Members
 - Raghul R 
-- Barani Kumar D 
-- Balaji SR 
-- Vigneshwar 
+- Baranikumar D
+- Balajisubramanyam SR
+- Vigneshwar S B
 - Amith BS  
 
 ## Solution Structure
